@@ -9,6 +9,7 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.RequestManager;
 import com.bumptech.glide.request.RequestOptions;
 import com.murad.daggertutorialapp.R;
+import com.murad.daggertutorialapp.SessionManager;
 import com.murad.daggertutorialapp.util.Constants;
 
 import javax.inject.Singleton;
